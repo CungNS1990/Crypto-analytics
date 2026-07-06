@@ -98,8 +98,15 @@ Copy `backend/.env.example` to `backend/.env` if needed.
 Frontend API URL (optional):
 
 ```
-NEXT_PUBLIC_API_URL=http://localhost:8000
+NEXT_PUBLIC_API_URL=http://localhost:8002
 ```
+
+## Deploy (free via GitHub)
+
+Xem hướng dẫn chi tiết: **[DEPLOY.md](./DEPLOY.md)**
+
+- **Backend:** Render (free) — file `render.yaml`
+- **Frontend:** Vercel (free) — root directory `frontend`
 
 ## Next phases
 
